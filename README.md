@@ -1,3 +1,16 @@
+--> Rick n Morty characters web
+
+--> Search according to your choice with filters on name, status and gender
+
+-->Fetched data from the https://rickandmortyapi.com/documentation open endpoint  
+
+-->Click on any charcater to know more about the same.
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
